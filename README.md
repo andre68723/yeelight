@@ -7,9 +7,8 @@ Highest color temperature varies:
 * starry 6000K
 * white 6500K
 
-|     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Model** | **Name** | **Shape** | **Measure** | **Lumen/Watt** | **Kelvin** | **Smart Plate** | **Availability** | **Homekit** | **Note** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | YLXD01YL | _Luna_    | round | 320 | 1800lm 28 Watt | 2700-6500 | Yes | 2018 |     |     |
 | YLXD02YL | JIAOYUE | round | 650 | 3500lm 50 Watt | 2700-6000 | Yes | 2018 |     | white / starry + Ambient Light |
 | YLXD04YL | JIAOYUE | round | 450 | 2200lm 32 Watt | 2700-6000 | Yes | 2018 |     | white / starry |
