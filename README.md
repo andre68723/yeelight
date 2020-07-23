@@ -1,5 +1,5 @@
 # yeelight
-Yeelight Models
+Yeelight Ceiling Models
 
 _italic_ = unconfirmed
 
@@ -14,6 +14,7 @@ Highest color temperature varies:
 | YLXD04YL | JIAOYUE | round | 450 | 2200lm 32 Watt | 2700-6000 | Yes | 2018 |     | white / starry |
 | YLXD05YL | JIAOYUE | round | 480 | 2200lm 32 Watt | 2700-6000 | Yes | 2018 |     | white / starry |
 | YlXD05Yl | YILAI | round | 480 | 2200lm 34 Watt | 2700-6500 | No | 2019 | | simpler version without Smart Plate |
+| YLXD17YL | JIAOYUE | round | 480 | 2200lm 32 Watt | 2700-6500 | Yes | _2018_ | |  |
 | YLXD31YL |        | round | 450 | _2000lm_ 50 Watt | 2700-6500 | No | _2019_ | | white / starry |
 | YLXD32YL |        | round | 350 | 1800lm 24 Watt | 2700-6500 | No | _2019_ | | white  |
 | YLXD37YL | XIANYU | round | 350 | 2000lm 24 Watt | 2700-6500 | No | _2018_ | | white / starry |
