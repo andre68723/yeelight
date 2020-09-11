@@ -21,4 +21,4 @@ Highest color temperature varies:
 | YLXD39YL | _XIANYU_ | round | 450 | 2800lm 50 Watt | 2700-6500 | No | _2019_ | | white / starry |
 | YLXD41YL |  | round | 320 x 73 | 1800lm 28 Watt | 2700-6500K | Yes | 2019 | Yes | white / starry; YLXD01YL successor with homekit |
 | YLXD42YL |  | round | 480 x80 | 2200lm 32 Watt | 2700-6500K | Yes | 2019 | Yes | white / starry; YLXD04YL successor with homekit  |
-| YLXD50YL | Guangcan | round | 470 | 7400lm 50 Watt | 2700-6500K | Yes | _2020_ | Yes | white + Ambient Light  |
+| YLXD50YL | Guangcan | round | 470 | 7400lm 50 Watt | 2700-6500K | No | _2020_ | Yes | white + Ambient Light  |
