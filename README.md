@@ -22,6 +22,8 @@ Highest color temperature varies:
 | YLXD41YL |  | round | 320 x 73 | 1800lm 28 Watt | 2700-6500K | Yes | 2019 | Yes | white / starry; YLXD01YL successor with homekit |
 | YLXD42YL |  | round | 480 x80 | 2200lm 32 Watt | 2700-6500K | Yes | 2019 | Yes | white / starry; YLXD04YL successor with homekit  |
 | YLXD50YL | Guangcan | round | 470 | 7400lm 50 Watt | 2700-6500K | No | _2020_ | Yes | white + Ambient Light  |
-| YLXD76YL |   | round | 320 | 1500lm 23 Watt | 2700-6500K | No | _2020_ | Yes |   |
-| YLXD013-B | Arwen | round | 450 | 3800lm 50 Watt | 2700-6500K | No | _2021_ | Yes | Full RGB  |
-| YLXD013-C | Arwen | round | 550 | 4000lm 50 Watt | 2700-6500K | No | _2021_ | Yes | Full RGB  |
+| YLXD76YL |   | round | 320 | 1500lm 23 Watt | 2700-6500K | Yes | _2020_ | Yes |   |
+| YLXD013-B | Arwen | round | 450 | 3800lm 50 Watt | 2700-6500K | Yes | _2021_ | Yes | Full RGB  |
+| YLXD013-C | Arwen | round | 550 | 4000lm 50 Watt | 2700-6500K | Yes | _2021_ | Yes | Full RGB  |
+| YLXD49YL | Arwen A | 930x630 |  | 7400lm 100 Watt | 2700-6500K | No | _2021_ | Yes | white + Ambient Light  |
+| YLXD49YL | Arwen A | round | 470 | ? lm 52 Watt | 2700-6500K | No | _2021_ | Yes | white + Ambient Light  |
